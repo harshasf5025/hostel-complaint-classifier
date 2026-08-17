@@ -1,0 +1,17 @@
+complaint,category,priority
+Fan is not working,Electrical,Medium
+Room light is broken,Electrical,Low
+No electricity in Block B,Electrical,High
+Power is gone from my room,Electrical,High
+Bathroom tap is leaking,Plumbing,Medium
+Water pipe is broken,Plumbing,High
+No water in bathroom,Plumbing,High
+Tap is dripping,Plumbing,Low
+WiFi is very slow,Internet,Low
+Internet is not working,Internet,Medium
+WiFi completely stopped,Internet,High
+Room is very dirty,Cleaning,Medium
+Garbage has not been collected,Cleaning,Medium
+Bed is broken,Furniture,Medium
+Chair is damaged,Furniture,Low
+Cupboard door is broken,Furniture,Medium
