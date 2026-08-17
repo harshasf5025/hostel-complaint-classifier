@@ -1,17 +1,1001 @@
 complaint,category,priority
-Fan is not working,Electrical,Medium
-Room light is broken,Electrical,Low
-No electricity in Block B,Electrical,High
-Power is gone from my room,Electrical,High
-Bathroom tap is leaking,Plumbing,Medium
-Water pipe is broken,Plumbing,High
-No water in bathroom,Plumbing,High
-Tap is dripping,Plumbing,Low
-WiFi is very slow,Internet,Low
-Internet is not working,Internet,Medium
-WiFi completely stopped,Internet,High
-Room is very dirty,Cleaning,Medium
-Garbage has not been collected,Cleaning,Medium
-Bed is broken,Furniture,Medium
-Chair is damaged,Furniture,Low
-Cupboard door is broken,Furniture,Medium
+"In my room, door cannot be locked in room 312 kindly resolve this.",Security,Medium
+I am facing an issue where laundry room equipment is damaged on the second floor I need help with this.,Laundry,Medium
+Please check this: laundry area is dirty in Block A this needs to be repaired.,Laundry,Medium
+I am facing an issue where window is broken in Block C please fix it.,Maintenance,Medium
+I am facing an issue where wardrobe lock is damaged in Block A please get this fixed soon.,Furniture,Medium
+There is a problem because wall paint is peeling on the second floor please get this fixed soon.,Maintenance,Low
+The problem is that door hinge is loose in Block C can someone look into this?,Maintenance,Medium
+I noticed that door lock is not working in the hostel room please send someone to check.,Security,High
+There is a problem because food is too spicy on the third floor this needs to be repaired.,Mess/Food,Low
+The problem is that bathroom has water leakage in room 204 please get this fixed soon.,Plumbing,Medium
+Kindly fix this: food is too spicy in Block C kindly resolve this.,Mess/Food,Low
+I am facing an issue where fan is making a strange noise in Block C can someone look into this?,Electrical,Medium
+"In my room, window glass is cracked in the hostel room kindly resolve this.",Maintenance,Medium
+I want to report that pest infestation in the room near my room,Pest Control,High
+Insects are present in the bathroom in Block C kindly resolve this.,Pest Control,Medium
+"In my room, cutlery is not clean in the hostel room please get this fixed soon.",Mess/Food,Medium
+I noticed that wifi is unavailable in Block B can someone look into this?,Internet,Medium
+My room has an issue: dinner is served late near my room can someone look into this?,Mess/Food,Medium
+My room has an issue: washing machine has a strange noise in Block B please get this fixed soon.,Laundry,Medium
+There is a problem because bathroom floor is dirty near my room I need help with this.,Cleaning,Medium
+I noticed that room door does not lock properly in Block B please send someone to check.,Security,Medium
+The problem is that water pressure is very low in room 312 this needs to be repaired.,Plumbing,Medium
+My room has an issue: toilet is not clean in room 204 please fix it.,Cleaning,Medium
+My room has an issue: room key is not working in room 312 please get this fixed soon.,Security,Medium
+I want to report that wifi is unavailable in Block A please fix it.,Internet,Medium
+"In my room, internet speed is very low in Block B",Internet,Medium
+Kindly fix this: water pressure is very low near my room please get this fixed soon.,Plumbing,Medium
+I am facing an issue where there are rats in the hostel on the second floor this needs to be repaired.,Pest Control,High
+There is a problem because room has mosquitoes in the hostel room,Pest Control,Medium
+Kindly fix this: cockroach infestation needs treatment in room 204,Pest Control,Medium
+I want to report that toilet is not clean in my room please get this fixed soon.,Cleaning,Medium
+Please check this: bathroom tap is broken on the third floor this needs to be repaired.,Plumbing,Medium
+I noticed that ceiling is leaking in my room,Maintenance,High
+The problem is that drawer is stuck in the hostel room please fix it.,Furniture,Medium
+Kindly fix this: dust is everywhere in the room in the hostel room please send someone to check.,Cleaning,Medium
+My room has an issue: bathroom tap is broken in room 312,Plumbing,Medium
+Kindly fix this: ceiling is leaking in the hostel room please get this fixed soon.,Maintenance,High
+"In my room, door cannot be locked on the third floor",Security,Medium
+I want to report that mosquitoes are too many in my room I need help with this.,Pest Control,Medium
+Kindly fix this: fan regulator is not working in Block B please fix it.,Electrical,Medium
+Please check this: common area is not clean in the hostel room please get this fixed soon.,Cleaning,Medium
+Tube light is flickering in the hostel room this needs to be repaired.,Electrical,Low
+Garbage has not been collected kindly resolve this.,Cleaning,Medium
+There is a problem because insects are present in the bathroom on the second floor this needs to be repaired.,Pest Control,Medium
+Kindly fix this: device cannot connect to wifi in room 312 please get this fixed soon.,Internet,Medium
+There is a problem because internet stops during online classes near my room,Internet,Medium
+I am facing an issue where cockroach infestation needs treatment in room 312 I need help with this.,Pest Control,Medium
+Please check this: wall paint is peeling in my room please send someone to check.,Maintenance,Low
+Kindly fix this: room cupboard is damaged near my room kindly resolve this.,Furniture,Medium
+I am facing an issue where breakfast is not available in the hostel room can someone look into this?,Mess/Food,Medium
+There is a problem because room key is not working in Block C,Security,Medium
+Food portion is too small in room 312 can someone look into this?,Mess/Food,Medium
+Please check this: wifi keeps disconnecting in Block B this needs to be repaired.,Internet,Medium
+My room has an issue: hostel security is inadequate in room 204 I need help with this.,Security,High
+I noticed that switch is not working in Block B can someone look into this?,Electrical,Medium
+I want to report that electrical switch is sparking in room 312 please get this fixed soon.,Electrical,Medium
+The problem is that wall has water damage on the second floor kindly resolve this.,Maintenance,Medium
+Kindly fix this: AC is not cooling this needs to be repaired.,Electrical,Medium
+I noticed that wifi keeps disconnecting on the second floor,Internet,Medium
+Mess menu is not being followed in my room please get this fixed soon.,Mess/Food,Medium
+My room has an issue: wifi password is not working kindly resolve this.,Internet,Medium
+I want to report that room light keeps flickering in Block B I need help with this.,Electrical,Medium
+"In my room, room key is not working in room 204 can someone look into this?",Security,Medium
+There is a problem because cannot connect to hostel wifi in Block A please fix it.,Internet,Medium
+"In my room, ceiling is leaking in room 204 please send someone to check.",Maintenance,High
+I noticed that window glass is cracked in the hostel room please send someone to check.,Maintenance,Medium
+The problem is that ceiling is leaking on the second floor can someone look into this?,Maintenance,High
+The problem is that mess area is dirty on the second floor can someone look into this?,Mess/Food,Medium
+The problem is that charging point is not working in the hostel room,Electrical,Medium
+There is a problem because main gate is left open in room 312 please fix it.,Security,Medium
+There is a problem because shower is not working near my room can someone look into this?,Plumbing,Medium
+There is a problem because room cupboard is damaged on the third floor this needs to be repaired.,Furniture,Medium
+My room has an issue: door lock is not working I need help with this.,Security,High
+I noticed that washing machine is overloaded in room 204 I need help with this.,Laundry,Medium
+I noticed that network is extremely slow near my room please get this fixed soon.,Internet,Medium
+I am facing an issue where wifi is unavailable in my room can someone look into this?,Internet,Medium
+I am facing an issue where ceiling is leaking in room 204 please get this fixed soon.,Maintenance,High
+"In my room, power is not available in my room in my room",Electrical,High
+Kindly fix this: unauthorized person entered the hostel in room 204 please fix it.,Security,High
+Room smells unpleasant in the hostel room,Cleaning,Medium
+The problem is that ceiling has cracks in room 312 please send someone to check.,Maintenance,Medium
+I want to report that ceiling fan stopped working please get this fixed soon.,Electrical,Medium
+I am facing an issue where cannot connect to hostel wifi in my room I need help with this.,Internet,Medium
+There is a problem because AC is not turning on in Block C I need help with this.,Electrical,Medium
+I noticed that bathroom has a bad smell near my room,Cleaning,Medium
+There is a problem because lock is damaged in Block A this needs to be repaired.,Security,Medium
+Please check this: there are cockroaches in my room in the hostel room please send someone to check.,Pest Control,Medium
+Clothes are getting damaged in the machine please fix it.,Laundry,Medium
+Laundry service is unavailable near my room this needs to be repaired.,Laundry,Medium
+The problem is that garbage has not been collected on the second floor please send someone to check.,Cleaning,Medium
+Floor has not been cleaned in Block C can someone look into this?,Cleaning,Low
+The problem is that study table is broken in the hostel room this needs to be repaired.,Furniture,Medium
+I want to report that door cannot be locked in room 312 can someone look into this?,Security,Medium
+There is a problem because network signal is poor in my room I need help with this.,Internet,Medium
+I am facing an issue where washing machine is leaking near my room this needs to be repaired.,Laundry,Medium
+Cupboard is not closing in my room can someone look into this?,Furniture,Medium
+I noticed that dryer is not heating in the hostel room I need help with this.,Laundry,Medium
+Kindly fix this: switch is not working near my room please send someone to check.,Electrical,Medium
+Room light is not turning on in my room,Electrical,Medium
+Please check this: food is repetitive kindly resolve this.,Mess/Food,Low
+The problem is that laundry room is closed in the hostel room kindly resolve this.,Laundry,Medium
+I want to report that bathroom is dirty near my room,Cleaning,Medium
+There is a problem because there are rats in the hostel on the second floor can someone look into this?,Pest Control,High
+I am facing an issue where wifi signal is weak in my room kindly resolve this.,Internet,Low
+Kindly fix this: wall has water damage on the third floor this needs to be repaired.,Maintenance,Medium
+I am facing an issue where wall has water damage,Maintenance,Medium
+"In my room, back gate is open in Block C please send someone to check.",Security,Medium
+Please check this: cockroaches are coming from the bathroom near my room please send someone to check.,Pest Control,Medium
+I noticed that shower is not working in my room please send someone to check.,Plumbing,Medium
+My room has an issue: there is a termite problem in Block A please get this fixed soon.,Pest Control,Medium
+Door latch is broken in Block C I need help with this.,Security,Medium
+Please check this: dinner is served late in room 312 this needs to be repaired.,Mess/Food,Medium
+"In my room, ants are everywhere in room 204 please send someone to check.",Pest Control,Medium
+I am facing an issue where food is repetitive in the hostel room please send someone to check.,Mess/Food,Low
+My room has an issue: socket has no power in room 204 please fix it.,Electrical,Medium
+Please check this: drawer is stuck in Block A please get this fixed soon.,Furniture,Medium
+"In my room, toilet is overflowing on the third floor I need help with this.",Plumbing,High
+I want to report that flies are everywhere in Block C kindly resolve this.,Pest Control,Medium
+I am facing an issue where someone entered the room without permission on the second floor please send someone to check.,Security,High
+I noticed that wifi is not working in room 312 can someone look into this?,Internet,High
+My room has an issue: mess area is dirty in Block A I need help with this.,Mess/Food,Medium
+I noticed that room cupboard is damaged in my room please get this fixed soon.,Furniture,Medium
+"In my room, washing machine is overloaded in my room can someone look into this?",Laundry,Medium
+The problem is that internet speed is very low in room 312,Internet,Medium
+"In my room, device cannot connect to wifi please fix it.",Internet,Medium
+There is a problem because room lock is broken in the hostel room please fix it.,Security,High
+I noticed that corridor security camera is not working in my room I need help with this.,Security,High
+There is a problem because study table is damaged can someone look into this?,Furniture,Medium
+I want to report that mess food is often late in the hostel room,Mess/Food,Medium
+Please check this: cutlery is not clean in Block B,Mess/Food,Medium
+I want to report that lost room key needs replacement in Block B this needs to be repaired.,Security,Medium
+My room has an issue: water in the mess is not clean in my room kindly resolve this.,Mess/Food,Medium
+Kindly fix this: internet stops during online classes on the second floor can someone look into this?,Internet,Medium
+Bed has bed bugs in room 204,Pest Control,High
+I noticed that visitor entered without permission please send someone to check.,Security,Medium
+I am facing an issue where geyser is not heating water in my room please send someone to check.,Electrical,Medium
+I am facing an issue where water is collecting on the bathroom floor in room 312 kindly resolve this.,Plumbing,Medium
+The problem is that there is no internet in my room near my room please send someone to check.,Internet,High
+I want to report that geyser is not working in Block A this needs to be repaired.,Electrical,High
+I want to report that exhaust fan is not working in room 204,Electrical,Medium
+The problem is that geyser is not heating water in Block C kindly resolve this.,Electrical,Medium
+I noticed that network signal is poor in Block A I need help with this.,Internet,Medium
+There is a problem because washing machine is leaking in room 312 please fix it.,Laundry,Medium
+I noticed that cannot connect to hostel wifi near my room this needs to be repaired.,Internet,Medium
+My room has an issue: breakfast is not available in the hostel room please send someone to check.,Mess/Food,Medium
+There are rats in the hostel in Block A please send someone to check.,Pest Control,High
+Dinner is served late in room 312 I need help with this.,Mess/Food,Medium
+I noticed that cannot connect to hostel wifi in my room kindly resolve this.,Internet,Medium
+The problem is that food is undercooked I need help with this.,Mess/Food,Medium
+My room has an issue: dustbin is overflowing on the third floor I need help with this.,Cleaning,Medium
+Window glass is cracked in room 204,Maintenance,Medium
+My room has an issue: drain is blocked I need help with this.,Plumbing,Medium
+"In my room, room needs pest control in room 204 can someone look into this?",Pest Control,Medium
+I noticed that chair leg is loose near my room,Furniture,Medium
+There is a problem because insects are present in the bathroom can someone look into this?,Pest Control,Medium
+Kindly fix this: table leg is broken on the third floor can someone look into this?,Furniture,Low
+Please check this: garbage is lying outside the room in Block B please send someone to check.,Cleaning,Medium
+"In my room, wall is damp near my room kindly resolve this.",Maintenance,Medium
+Please check this: switch is not working in Block A I need help with this.,Electrical,Medium
+I noticed that mess plates are dirty in the hostel room please fix it.,Mess/Food,Medium
+The problem is that security guard is not present in room 204 please get this fixed soon.,Security,High
+"In my room, washing machine is overloaded on the second floor",Laundry,Medium
+I am facing an issue where door handle is broken in the hostel room please fix it.,Maintenance,Medium
+"In my room, ceiling is leaking in Block B please send someone to check.",Maintenance,High
+"In my room, dinner is served late in the hostel room I need help with this.",Mess/Food,Medium
+I noticed that window does not close in my room please get this fixed soon.,Maintenance,Medium
+Please check this: there is no internet in my room on the second floor kindly resolve this.,Internet,High
+I want to report that room needs maintenance in the hostel room this needs to be repaired.,Maintenance,Medium
+There is a problem because toilet is not clean in Block A,Cleaning,Medium
+I want to report that room cleaning has not been done in Block C,Cleaning,Medium
+I am facing an issue where bathroom is dirty in room 204 please send someone to check.,Cleaning,Medium
+My room has an issue: drawer is broken on the third floor I need help with this.,Furniture,Medium
+Drain is blocked in room 312 please fix it.,Plumbing,Medium
+I want to report that pest infestation in the room on the third floor please fix it.,Pest Control,High
+There is a problem because room cupboard is damaged near my room kindly resolve this.,Furniture,Medium
+I am facing an issue where floor has not been cleaned on the third floor,Cleaning,Low
+I noticed that wifi keeps asking for login in my room can someone look into this?,Internet,Medium
+I am facing an issue where hostel internet is disconnected near my room can someone look into this?,Internet,Medium
+I noticed that vegetarian food is not available in Block C,Mess/Food,Medium
+I noticed that ceiling has cracks on the second floor can someone look into this?,Maintenance,Medium
+I am facing an issue where cupboard door is broken on the third floor this needs to be repaired.,Furniture,Medium
+There is a problem because ceiling has cracks on the second floor kindly resolve this.,Maintenance,Medium
+I noticed that cleaning staff has not visited near my room can someone look into this?,Cleaning,Medium
+"In my room, door latch is broken in the hostel room",Security,Medium
+I want to report that breakfast is not available in Block B please fix it.,Mess/Food,Medium
+I want to report that wash basin is clogged on the third floor I need help with this.,Plumbing,Medium
+My room has an issue: dustbin is overflowing near my room this needs to be repaired.,Cleaning,Medium
+I am facing an issue where dirty water is on the floor in my room this needs to be repaired.,Cleaning,Medium
+There is a problem because pest infestation in the room in Block C this needs to be repaired.,Pest Control,High
+Please check this: dryer is not heating please send someone to check.,Laundry,Medium
+My room has an issue: insects are coming into the room in room 204 this needs to be repaired.,Pest Control,Medium
+There is a problem because mess plates are dirty in Block B please fix it.,Mess/Food,Medium
+Please check this: wall has cracks in room 312 please send someone to check.,Maintenance,Medium
+"In my room, bathroom drain is clogged on the third floor I need help with this.",Plumbing,Medium
+There is a problem because internet stops during online classes in my room I need help with this.,Internet,Medium
+There is a problem because study chair is damaged in Block B I need help with this.,Furniture,Medium
+My room has an issue: room has not been swept in my room please fix it.,Cleaning,Low
+Wifi works only sometimes in Block B please fix it.,Internet,Medium
+I want to report that wall is damp on the second floor this needs to be repaired.,Maintenance,Medium
+I want to report that AC is not turning on on the third floor this needs to be repaired.,Electrical,Medium
+Night lamp is not working in Block A please fix it.,Electrical,Medium
+I noticed that door cannot be locked I need help with this.,Security,Medium
+I want to report that wall has water damage on the third floor,Maintenance,Medium
+I want to report that unauthorized person entered the hostel on the second floor,Security,High
+Please check this: food is too oily in Block C this needs to be repaired.,Mess/Food,Low
+Please check this: someone entered the room without permission,Security,High
+I noticed that bathroom has water leakage in Block A please fix it.,Plumbing,Medium
+I am facing an issue where rat was seen in the corridor in Block A can someone look into this?,Pest Control,Medium
+Mattress is damaged on the third floor kindly resolve this.,Furniture,Medium
+I noticed that there is not enough food in the mess on the third floor please send someone to check.,Mess/Food,Medium
+"In my room, geyser is not heating water on the second floor please send someone to check.",Electrical,Medium
+Kindly fix this: pipe is leaking in Block A please fix it.,Plumbing,Medium
+"In my room, mosquitoes are too many in my room this needs to be repaired.",Pest Control,Medium
+Cutlery is not clean in room 204 please send someone to check.,Mess/Food,Medium
+I noticed that curtain is damaged in room 204 please fix it.,Maintenance,Low
+Kindly fix this: corridor is dirty near my room kindly resolve this.,Cleaning,Medium
+I am facing an issue where ceiling plaster is falling in my room please send someone to check.,Maintenance,High
+The problem is that wifi does not reach my room properly on the third floor please get this fixed soon.,Internet,Medium
+I noticed that insects are coming into the room in Block A please get this fixed soon.,Pest Control,Medium
+Kindly fix this: dryer is not heating on the third floor,Laundry,Medium
+There is a problem because dirty water is on the floor in my room please send someone to check.,Cleaning,Medium
+Kindly fix this: laundry room is closed in room 312 I need help with this.,Laundry,Medium
+I am facing an issue where bed has bed bugs in room 312,Pest Control,High
+Kindly fix this: fan is making a strange noise in room 312,Electrical,Medium
+Please check this: food is not fresh in the hostel room please fix it.,Mess/Food,High
+The problem is that power is fluctuating in room 312 please fix it.,Electrical,Medium
+I am facing an issue where lock is damaged in the hostel room please get this fixed soon.,Security,Medium
+I noticed that room cleaning has not been done please fix it.,Cleaning,Medium
+I am facing an issue where insects are coming into the room in my room kindly resolve this.,Pest Control,Medium
+The problem is that someone entered the room without permission in room 204 please send someone to check.,Security,High
+Corridor is dirty in Block C kindly resolve this.,Cleaning,Medium
+I am facing an issue where ants are entering the room on the third floor please get this fixed soon.,Pest Control,Medium
+I want to report that bed frame is loose on the second floor kindly resolve this.,Furniture,Medium
+"In my room, someone entered the room without permission on the third floor kindly resolve this.",Security,High
+My room has an issue: fan is not working near my room this needs to be repaired.,Electrical,Medium
+I am facing an issue where fan is making a strange noise in room 312 please get this fixed soon.,Electrical,Medium
+"In my room, internet is very slow in the hostel room please fix it.",Internet,Low
+I noticed that there is a termite problem near my room this needs to be repaired.,Pest Control,Medium
+I want to report that shower has very low pressure in Block B please send someone to check.,Plumbing,Medium
+I am facing an issue where dustbin has not been emptied in the hostel room please fix it.,Cleaning,Medium
+AC is leaking water in my room,Electrical,Medium
+My room has an issue: wifi is unavailable in room 312 please get this fixed soon.,Internet,Medium
+There is a problem because lock is damaged on the second floor please fix it.,Security,Medium
+I am facing an issue where laundry machine keeps stopping in Block C please fix it.,Laundry,Medium
+My room has an issue: common area is not clean near my room please send someone to check.,Cleaning,Medium
+There is a problem because no water in the bathroom in room 312 kindly resolve this.,Plumbing,High
+I noticed that shelf is broken in Block A please send someone to check.,Furniture,Medium
+Kindly fix this: switch is not working in Block C please send someone to check.,Electrical,Medium
+There is a problem because fan speed is very low near my room,Electrical,Medium
+The problem is that hostel network is down in Block A this needs to be repaired.,Internet,High
+My room has an issue: AC is not cooling in the hostel room please send someone to check.,Electrical,Medium
+Room has mosquitoes in Block C I need help with this.,Pest Control,Medium
+Please check this: dryer is not working near my room I need help with this.,Laundry,Medium
+I want to report that breakfast is not available near my room please fix it.,Mess/Food,Medium
+My room has an issue: bathroom floor is dirty in room 204 please get this fixed soon.,Cleaning,Medium
+My room has an issue: bathroom is dirty in Block C kindly resolve this.,Cleaning,Medium
+I am facing an issue where door cannot be locked,Security,Medium
+I am facing an issue where flies are everywhere on the third floor I need help with this.,Pest Control,Medium
+The problem is that rat was seen in the corridor in room 312 please get this fixed soon.,Pest Control,Medium
+The problem is that switch is not working in Block B please get this fixed soon.,Electrical,Medium
+I noticed that dryer is not heating on the second floor please get this fixed soon.,Laundry,Medium
+Please check this: cupboard is not closing please fix it.,Furniture,Medium
+Kindly fix this: ceiling fan stopped working near my room please send someone to check.,Electrical,Medium
+Please check this: wifi signal is weak in room 312 please get this fixed soon.,Internet,Low
+I am facing an issue where bathroom has a bad smell,Cleaning,Medium
+Please check this: vegetarian food is not available in Block C,Mess/Food,Medium
+The problem is that laundry machine is not starting in Block A please send someone to check.,Laundry,Medium
+Cleaning staff has not visited in room 204 can someone look into this?,Cleaning,Medium
+Please check this: tiles are loose kindly resolve this.,Maintenance,Medium
+There is a problem because dustbin has not been emptied on the third floor I need help with this.,Cleaning,Medium
+Bed frame is damaged please fix it.,Furniture,Medium
+Kindly fix this: geyser water is not coming in Block C please get this fixed soon.,Plumbing,Medium
+I am facing an issue where room needs pest control on the third floor please fix it.,Pest Control,Medium
+Please check this: wifi does not reach my room properly in room 312 please send someone to check.,Internet,Medium
+I want to report that room key is not working in room 312 please get this fixed soon.,Security,Medium
+My room has an issue: room light is not turning on in my room please get this fixed soon.,Electrical,Medium
+There is a problem because water supply is not available,Plumbing,High
+Room needs maintenance please send someone to check.,Maintenance,Medium
+Please check this: room light keeps flickering in Block A this needs to be repaired.,Electrical,Medium
+My room has an issue: dryer is not heating in the hostel room please get this fixed soon.,Laundry,Medium
+Door latch is broken in Block C please get this fixed soon.,Security,Medium
+There is a problem because dryer is not heating in Block C please fix it.,Laundry,Medium
+Hostel internet is disconnected in my room please get this fixed soon.,Internet,Medium
+Internet connection is unstable in room 204 this needs to be repaired.,Internet,Medium
+I am facing an issue where wifi is not working in room 312 I need help with this.,Internet,High
+"In my room, laundry service is unavailable on the second floor please send someone to check.",Laundry,Medium
+There is a problem because corridor is dirty in my room can someone look into this?,Cleaning,Medium
+The problem is that drawer is stuck in my room this needs to be repaired.,Furniture,Medium
+My room has an issue: internet speed is very low in the hostel room I need help with this.,Internet,Medium
+Please check this: cockroaches are coming from the bathroom in Block B,Pest Control,Medium
+Please check this: mosquito problem is severe on the third floor please get this fixed soon.,Pest Control,Medium
+I am facing an issue where laundry service is unavailable in my room please get this fixed soon.,Laundry,Medium
+Please check this: security light is not working in my room kindly resolve this.,Security,High
+I am facing an issue where drawer is stuck near my room can someone look into this?,Furniture,Medium
+Kindly fix this: garbage is lying outside the room on the second floor please fix it.,Cleaning,Medium
+I noticed that study table is damaged on the third floor this needs to be repaired.,Furniture,Medium
+I want to report that bed bugs are present in my room please fix it.,Pest Control,High
+"In my room, study chair is damaged in my room please fix it.",Furniture,Medium
+I want to report that night lamp is not working in the hostel room please get this fixed soon.,Electrical,Medium
+Water pressure is very low on the second floor this needs to be repaired.,Plumbing,Medium
+There is a problem because door latch is broken on the third floor please send someone to check.,Security,Medium
+"In my room, table leg is broken in Block A kindly resolve this.",Furniture,Low
+Shelf is broken in room 204 please fix it.,Furniture,Medium
+There is a problem because bed frame is damaged in Block A I need help with this.,Furniture,Medium
+Kindly fix this: laundry machine keeps stopping in Block A this needs to be repaired.,Laundry,Medium
+I want to report that bed has bed bugs in Block A,Pest Control,High
+The problem is that bathroom is dirty in room 312,Cleaning,Medium
+Kindly fix this: hostel security is inadequate in room 204 please get this fixed soon.,Security,High
+I am facing an issue where cockroach infestation needs treatment on the second floor please fix it.,Pest Control,Medium
+I want to report that room door does not lock properly on the third floor kindly resolve this.,Security,Medium
+I want to report that lock is damaged in my room can someone look into this?,Security,Medium
+"In my room, visitor entered without permission in room 204 kindly resolve this.",Security,Medium
+I want to report that lock is damaged in the hostel room kindly resolve this.,Security,Medium
+I am facing an issue where washing machine has a strange noise near my room I need help with this.,Laundry,Medium
+I want to report that drawer is broken on the third floor I need help with this.,Furniture,Medium
+There is a problem because wardrobe lock is damaged in room 312 I need help with this.,Furniture,Medium
+Kindly fix this: wifi password is not working near my room can someone look into this?,Internet,Medium
+There is a problem because dustbin has not been emptied near my room I need help with this.,Cleaning,Medium
+Kindly fix this: dryer is not heating in Block B please fix it.,Laundry,Medium
+There is a problem because internet speed is very low in Block B,Internet,Medium
+My room has an issue: power is not available in my room on the third floor,Electrical,High
+The problem is that geyser water is not coming on the third floor please send someone to check.,Plumbing,Medium
+Please check this: washroom needs cleaning on the third floor I need help with this.,Cleaning,Medium
+Kindly fix this: door handle is broken on the third floor I need help with this.,Maintenance,Medium
+My room has an issue: dryer keeps shutting down in my room please fix it.,Laundry,Medium
+"In my room, door latch is broken in my room",Security,Medium
+Please check this: cleaning staff has not visited in room 204 please get this fixed soon.,Cleaning,Medium
+My room has an issue: wardrobe lock is damaged in Block B this needs to be repaired.,Furniture,Medium
+"In my room, laundry machine keeps stopping in room 204 please send someone to check.",Laundry,Medium
+I want to report that toilet is overflowing I need help with this.,Plumbing,High
+Kindly fix this: washing machine is not draining near my room kindly resolve this.,Laundry,Medium
+I want to report that bathroom is dirty in Block A this needs to be repaired.,Cleaning,Medium
+The problem is that dryer is not working in the hostel room kindly resolve this.,Laundry,Medium
+"In my room, ceiling plaster is falling in Block B can someone look into this?",Maintenance,High
+My room has an issue: electrical switch is sparking in Block C,Electrical,Medium
+"In my room, room has not been swept in room 204 can someone look into this?",Cleaning,Low
+Please check this: laundry area is dirty on the third floor please send someone to check.,Laundry,Medium
+"In my room, main gate is left open in Block B please send someone to check.",Security,Medium
+I am facing an issue where mess area is dirty in Block A can someone look into this?,Mess/Food,Medium
+CCTV camera is not working in Block B please fix it.,Security,Medium
+I am facing an issue where wardrobe lock is damaged in room 204 I need help with this.,Furniture,Medium
+I noticed that drawer is broken in room 312 kindly resolve this.,Furniture,Medium
+"In my room, geyser water is not coming on the second floor please fix it.",Plumbing,Medium
+I want to report that bathroom tap is broken in Block C please fix it.,Plumbing,Medium
+I want to report that room smells unpleasant in my room can someone look into this?,Cleaning,Medium
+Please check this: drawer is stuck in the hostel room,Furniture,Medium
+"In my room, room key is not working near my room please fix it.",Security,Medium
+My room has an issue: there is a termite problem in the hostel room please fix it.,Pest Control,Medium
+My room has an issue: ceiling fan stopped working in Block C please get this fixed soon.,Electrical,Medium
+I want to report that bed has bed bugs please get this fixed soon.,Pest Control,High
+There is a problem because pipe is leaking in room 204 this needs to be repaired.,Plumbing,Medium
+There is a problem because wifi password is not working in Block C I need help with this.,Internet,Medium
+"In my room, breakfast is not available in Block C",Mess/Food,Medium
+There is a problem because switch is not working please send someone to check.,Electrical,Medium
+"In my room, there is no internet in my room near my room can someone look into this?",Internet,High
+I am facing an issue where bathroom tap is broken in Block A please send someone to check.,Plumbing,Medium
+I am facing an issue where bathroom is dirty on the third floor please fix it.,Cleaning,Medium
+There is a problem because bed is broken in Block A please send someone to check.,Furniture,Medium
+I noticed that bathroom floor is dirty in my room please get this fixed soon.,Cleaning,Medium
+Kindly fix this: geyser water is not coming on the second floor I need help with this.,Plumbing,Medium
+"In my room, chair leg is loose in my room",Furniture,Medium
+The problem is that lock is damaged in room 312 please send someone to check.,Security,Medium
+"In my room, water supply is not available on the third floor can someone look into this?",Plumbing,High
+My room has an issue: mattress is uncomfortable and damaged in room 312 please get this fixed soon.,Furniture,Medium
+There is a problem because shower has very low pressure in Block A can someone look into this?,Plumbing,Medium
+I want to report that power socket is damaged in my room I need help with this.,Electrical,Medium
+My room has an issue: laundry room equipment is damaged in room 312 kindly resolve this.,Laundry,Medium
+There is a problem because bathroom tap is broken in my room this needs to be repaired.,Plumbing,Medium
+I want to report that bathroom floor is dirty in Block B,Cleaning,Medium
+I noticed that food is undercooked in my room this needs to be repaired.,Mess/Food,Medium
+There is a problem because shower has very low pressure in room 312 please fix it.,Plumbing,Medium
+My room has an issue: laundry service is unavailable in my room,Laundry,Medium
+There is a problem because shower is not working in Block C please send someone to check.,Plumbing,Medium
+"In my room, water is leaking from the ceiling on the second floor kindly resolve this.",Plumbing,Medium
+I noticed that geyser is not working this needs to be repaired.,Electrical,High
+There is a problem because washing machine is not draining on the third floor,Laundry,Medium
+I am facing an issue where mattress is uncomfortable and damaged in Block A please fix it.,Furniture,Medium
+I want to report that fan is making a strange noise in room 312 please fix it.,Electrical,Medium
+There is a problem because flies are everywhere in my room please send someone to check.,Pest Control,Medium
+Mess menu is not being followed,Mess/Food,Medium
+Please check this: wifi works only sometimes in Block C kindly resolve this.,Internet,Medium
+Please check this: wash basin tap is broken on the second floor please get this fixed soon.,Plumbing,Medium
+Kindly fix this: laundry service is unavailable on the third floor kindly resolve this.,Laundry,Medium
+Please check this: internet is very slow in room 312 can someone look into this?,Internet,Low
+The problem is that wifi keeps asking for login on the third floor I need help with this.,Internet,Medium
+The problem is that mosquitoes are too many on the second floor,Pest Control,Medium
+"In my room, CCTV camera is not working in Block C please fix it.",Security,Medium
+Pipe has burst on the second floor please fix it.,Plumbing,High
+I want to report that pest infestation in the room near my room can someone look into this?,Pest Control,High
+The problem is that washing machine is not draining I need help with this.,Laundry,Medium
+My room has an issue: bathroom tap is leaking in Block B this needs to be repaired.,Plumbing,Medium
+I noticed that power socket is damaged in my room please fix it.,Electrical,Medium
+"In my room, door is damaged in my room this needs to be repaired.",Maintenance,Medium
+I am facing an issue where water is continuously dripping can someone look into this?,Plumbing,Medium
+Please check this: room lock is broken please fix it.,Security,High
+I am facing an issue where room light is not turning on on the second floor can someone look into this?,Electrical,Medium
+I want to report that bed is making noise in Block A kindly resolve this.,Furniture,Medium
+Study table is damaged please send someone to check.,Furniture,Medium
+I am facing an issue where laundry service is unavailable in my room I need help with this.,Laundry,Medium
+Please check this: cockroach infestation needs treatment near my room,Pest Control,Medium
+"In my room, electrical switch is sparking near my room please get this fixed soon.",Electrical,Medium
+There is a problem because chair is broken on the third floor this needs to be repaired.,Furniture,Medium
+There is a problem because lost room key needs replacement in Block B I need help with this.,Security,Medium
+I am facing an issue where hostel security is inadequate near my room kindly resolve this.,Security,High
+There is a problem because door hinge is loose in the hostel room please send someone to check.,Maintenance,Medium
+I noticed that ceiling plaster is falling in room 312 please send someone to check.,Maintenance,High
+Bed has bed bugs in my room kindly resolve this.,Pest Control,High
+Kindly fix this: dust is everywhere in the room in room 312 please fix it.,Cleaning,Medium
+Fan is making a strange noise in my room please send someone to check.,Electrical,Medium
+The problem is that hostel entrance is not secure in Block B I need help with this.,Security,Medium
+My room has an issue: hostel security is inadequate in my room kindly resolve this.,Security,High
+There is a problem because mosquito problem is severe in Block C please send someone to check.,Pest Control,Medium
+Please check this: washing machine has a strange noise on the second floor kindly resolve this.,Laundry,Medium
+Wifi is not working can someone look into this?,Internet,High
+I am facing an issue where food tastes bad in Block C can someone look into this?,Mess/Food,Medium
+I want to report that dryer is not working in Block C can someone look into this?,Laundry,Medium
+I want to report that window glass is cracked in Block A please fix it.,Maintenance,Medium
+Please check this: food quality is poor in the hostel room please get this fixed soon.,Mess/Food,Medium
+I want to report that lost room key needs replacement in room 312 please send someone to check.,Security,Medium
+I am facing an issue where mattress is uncomfortable and damaged on the second floor I need help with this.,Furniture,Medium
+My room has an issue: electrical switch is sparking in room 204 kindly resolve this.,Electrical,Medium
+My room has an issue: laundry machine keeps stopping in Block B kindly resolve this.,Laundry,Medium
+There is a problem because chair is unstable in Block A kindly resolve this.,Furniture,Low
+Please check this: room key is not working in Block C,Security,Medium
+The problem is that mattress is damaged in my room can someone look into this?,Furniture,Medium
+"In my room, room smells unpleasant in my room can someone look into this?",Cleaning,Medium
+I want to report that electricity keeps going off in room 204 I need help with this.,Electrical,Medium
+I want to report that AC is leaking water on the third floor this needs to be repaired.,Electrical,Medium
+Wall has water damage in my room,Maintenance,Medium
+I want to report that hostel internet is disconnected on the third floor please fix it.,Internet,Medium
+Please check this: internet connection drops frequently in room 204 kindly resolve this.,Internet,Medium
+"In my room, room is very dirty in Block A please get this fixed soon.",Cleaning,Medium
+Please check this: corridor is dirty in the hostel room please fix it.,Cleaning,Medium
+There is a problem because mattress is uncomfortable and damaged in my room,Furniture,Medium
+There is a problem because internet connection is unstable in room 312,Internet,Medium
+The problem is that fan is making a strange noise near my room this needs to be repaired.,Electrical,Medium
+The problem is that bathroom tap is leaking in my room please send someone to check.,Plumbing,Medium
+My room has an issue: dustbin is overflowing on the second floor please send someone to check.,Cleaning,Medium
+Breakfast is not available in Block A,Mess/Food,Medium
+There is a problem because door hinge is loose on the third floor kindly resolve this.,Maintenance,Medium
+Please check this: wifi keeps disconnecting near my room,Internet,Medium
+"In my room, room door does not lock properly in Block A this needs to be repaired.",Security,Medium
+There is a problem because pest infestation in the room near my room this needs to be repaired.,Pest Control,High
+Window glass is cracked in Block A,Maintenance,Medium
+There is a problem because someone entered the room without permission in Block C,Security,High
+"In my room, door cannot be locked near my room please fix it.",Security,Medium
+Please check this: window is broken in Block B can someone look into this?,Maintenance,Medium
+There is a problem because sewage smell is coming from the drain in Block B can someone look into this?,Plumbing,Medium
+I noticed that curtain is damaged in the hostel room please get this fixed soon.,Maintenance,Low
+Kindly fix this: room has seepage in my room this needs to be repaired.,Maintenance,Medium
+The problem is that someone entered the room without permission on the third floor please get this fixed soon.,Security,High
+Please check this: food is too spicy in the hostel room can someone look into this?,Mess/Food,Low
+I am facing an issue where garbage is lying outside the room in Block C this needs to be repaired.,Cleaning,Medium
+My room has an issue: water is collecting on the bathroom floor on the third floor please send someone to check.,Plumbing,Medium
+The problem is that device cannot connect to wifi in the hostel room I need help with this.,Internet,Medium
+I noticed that ceiling is leaking on the third floor please send someone to check.,Maintenance,High
+Kindly fix this: there is not enough food in the mess in Block A kindly resolve this.,Mess/Food,Medium
+There is a problem because room needs maintenance in my room please send someone to check.,Maintenance,Medium
+My room has an issue: bathroom is dirty near my room kindly resolve this.,Cleaning,Medium
+I noticed that study table is damaged in Block C kindly resolve this.,Furniture,Medium
+Please check this: fan is making a strange noise in my room please get this fixed soon.,Electrical,Medium
+Please check this: sewage smell is coming from the drain this needs to be repaired.,Plumbing,Medium
+Please check this: hostel entrance is not secure on the third floor please send someone to check.,Security,Medium
+There are cockroaches in my room in Block A I need help with this.,Pest Control,Medium
+There is a problem because washroom needs cleaning on the second floor please get this fixed soon.,Cleaning,Medium
+"In my room, toilet flush is not working in Block C can someone look into this?",Plumbing,Medium
+I am facing an issue where shower has very low pressure in room 204,Plumbing,Medium
+"In my room, cupboard door is broken can someone look into this?",Furniture,Medium
+The problem is that door cannot be locked in room 312 I need help with this.,Security,Medium
+Kindly fix this: bed is making noise kindly resolve this.,Furniture,Medium
+Please check this: room cupboard is damaged on the third floor this needs to be repaired.,Furniture,Medium
+There is a problem because electrical switch is sparking on the third floor kindly resolve this.,Electrical,Medium
+I noticed that bed bugs are present in the hostel room this needs to be repaired.,Pest Control,High
+There is a problem because electrical switch is sparking in Block C I need help with this.,Electrical,Medium
+I am facing an issue where garbage has not been collected near my room can someone look into this?,Cleaning,Medium
+I am facing an issue where pest infestation in the room in Block A I need help with this.,Pest Control,High
+I want to report that room has mosquitoes in my room please fix it.,Pest Control,Medium
+"In my room, cockroach infestation needs treatment in room 312",Pest Control,Medium
+Door is damaged in room 204 kindly resolve this.,Maintenance,Medium
+I am facing an issue where hostel entrance is not secure near my room please fix it.,Security,Medium
+Window glass is cracked near my room can someone look into this?,Maintenance,Medium
+I want to report that fan is making a strange noise in the hostel room,Electrical,Medium
+"In my room, fan regulator is not working on the second floor please fix it.",Electrical,Medium
+I want to report that dirty water is on the floor in Block C please fix it.,Cleaning,Medium
+"In my room, room lock is broken on the second floor can someone look into this?",Security,High
+I want to report that night lamp is not working near my room kindly resolve this.,Electrical,Medium
+"In my room, fan regulator is not working in room 204 please fix it.",Electrical,Medium
+I am facing an issue where common area is not clean in my room please get this fixed soon.,Cleaning,Medium
+I am facing an issue where sewage smell is coming from the drain in Block B please get this fixed soon.,Plumbing,Medium
+I noticed that drawer is broken in the hostel room kindly resolve this.,Furniture,Medium
+There is a problem because food is repetitive on the third floor kindly resolve this.,Mess/Food,Low
+"In my room, door latch is broken in room 204 please get this fixed soon.",Security,Medium
+I noticed that dryer is not heating near my room this needs to be repaired.,Laundry,Medium
+I want to report that water pressure is very low please get this fixed soon.,Plumbing,Medium
+Please check this: wardrobe lock is damaged in my room this needs to be repaired.,Furniture,Medium
+I noticed that wash basin is clogged in the hostel room please get this fixed soon.,Plumbing,Medium
+There is a problem because chair leg is loose near my room,Furniture,Medium
+I want to report that shelf is broken in my room please get this fixed soon.,Furniture,Medium
+I want to report that food tastes bad in Block B please fix it.,Mess/Food,Medium
+I want to report that mess area is dirty in room 204 please fix it.,Mess/Food,Medium
+I want to report that door is getting stuck in Block A please get this fixed soon.,Maintenance,Medium
+There is a problem because shower is not working in Block B I need help with this.,Plumbing,Medium
+I want to report that cleaning staff has not visited in Block C can someone look into this?,Cleaning,Medium
+I am facing an issue where room has mosquitoes in Block A I need help with this.,Pest Control,Medium
+Laundry machine is not starting please fix it.,Laundry,Medium
+There is a problem because cockroaches are coming from the bathroom in room 204 please get this fixed soon.,Pest Control,Medium
+My room has an issue: window glass is cracked in Block C can someone look into this?,Maintenance,Medium
+My room has an issue: dustbin has not been emptied on the third floor please get this fixed soon.,Cleaning,Medium
+Kindly fix this: room needs pest control in Block A can someone look into this?,Pest Control,Medium
+Kindly fix this: laundry room is closed in Block C this needs to be repaired.,Laundry,Medium
+There is a problem because internet speed is very low in room 312 can someone look into this?,Internet,Medium
+"In my room, security guard is not present in room 204 can someone look into this?",Security,High
+The problem is that garbage is lying outside the room near my room can someone look into this?,Cleaning,Medium
+My room has an issue: power socket is damaged in Block C please get this fixed soon.,Electrical,Medium
+I noticed that room smells unpleasant on the second floor can someone look into this?,Cleaning,Medium
+I am facing an issue where laundry machine is not starting in the hostel room this needs to be repaired.,Laundry,Medium
+I noticed that wifi does not reach my room properly this needs to be repaired.,Internet,Medium
+"In my room, bathroom tap is leaking in Block A can someone look into this?",Plumbing,Medium
+I noticed that there is a termite problem on the third floor this needs to be repaired.,Pest Control,Medium
+I am facing an issue where power is not available in my room in my room this needs to be repaired.,Electrical,High
+"In my room, cleaning staff has not visited this needs to be repaired.",Cleaning,Medium
+There is a problem because wall paint is peeling on the third floor I need help with this.,Maintenance,Low
+"In my room, there is not enough food in the mess in room 204 please get this fixed soon.",Mess/Food,Medium
+Please check this: room has not been swept in the hostel room please fix it.,Cleaning,Low
+I am facing an issue where wardrobe lock is damaged in room 312,Furniture,Medium
+CCTV camera is not working on the second floor please fix it.,Security,Medium
+My room has an issue: water in the mess is not clean in room 204 please fix it.,Mess/Food,Medium
+I noticed that wifi signal is weak in my room this needs to be repaired.,Internet,Low
+Kindly fix this: floor tile is broken please get this fixed soon.,Maintenance,Medium
+I am facing an issue where room light keeps flickering in my room,Electrical,Medium
+I want to report that back gate is open this needs to be repaired.,Security,Medium
+The problem is that AC is leaking water in Block A I need help with this.,Electrical,Medium
+I noticed that door is damaged on the third floor please send someone to check.,Maintenance,Medium
+There is a problem because wifi keeps disconnecting on the second floor can someone look into this?,Internet,Medium
+There is a problem because food is too spicy in Block B,Mess/Food,Low
+The problem is that shelf is broken on the second floor,Furniture,Medium
+I noticed that sewage smell is coming from the drain in my room,Plumbing,Medium
+Please check this: charging point is not working in room 312,Electrical,Medium
+The problem is that dryer is not heating on the second floor please get this fixed soon.,Laundry,Medium
+There is a problem because drawer is broken in the hostel room please fix it.,Furniture,Medium
+Kindly fix this: water is continuously dripping in room 204 please get this fixed soon.,Plumbing,Medium
+"In my room, wifi is not working near my room this needs to be repaired.",Internet,High
+The problem is that network is extremely slow in Block C kindly resolve this.,Internet,Medium
+I noticed that wardrobe lock is damaged in room 204 please fix it.,Furniture,Medium
+There is a problem because no water in the bathroom near my room this needs to be repaired.,Plumbing,High
+My room has an issue: insects are present in the bathroom in Block A please send someone to check.,Pest Control,Medium
+Kindly fix this: hostel entrance is not secure on the second floor,Security,Medium
+I noticed that dinner is served late in Block B I need help with this.,Mess/Food,Medium
+I am facing an issue where door latch is broken in Block A kindly resolve this.,Security,Medium
+I noticed that water is continuously dripping in my room can someone look into this?,Plumbing,Medium
+Kindly fix this: shower is not working near my room can someone look into this?,Plumbing,Medium
+Kindly fix this: study table is broken in my room please send someone to check.,Furniture,Medium
+There is a problem because ceiling is leaking in the hostel room please get this fixed soon.,Maintenance,High
+"In my room, AC is leaking water near my room",Electrical,Medium
+I want to report that mess plates are dirty in Block B please get this fixed soon.,Mess/Food,Medium
+Kindly fix this: room has mosquitoes on the second floor,Pest Control,Medium
+I am facing an issue where cleaning staff has not visited on the second floor please fix it.,Cleaning,Medium
+I am facing an issue where wifi works only sometimes on the third floor please send someone to check.,Internet,Medium
+Please check this: room light keeps flickering on the second floor this needs to be repaired.,Electrical,Medium
+I want to report that room cleaning has not been done in Block C can someone look into this?,Cleaning,Medium
+There is a problem because water pressure is very low in room 204,Plumbing,Medium
+I want to report that flies are everywhere on the second floor please fix it.,Pest Control,Medium
+I am facing an issue where food is too oily in room 312 please fix it.,Mess/Food,Low
+Please check this: dryer is not heating in room 204 please get this fixed soon.,Laundry,Medium
+"In my room, there is no internet in my room in Block C kindly resolve this.",Internet,High
+There is a problem because drawer is broken in room 204 please get this fixed soon.,Furniture,Medium
+The problem is that room has seepage in my room please get this fixed soon.,Maintenance,Medium
+The problem is that washroom needs cleaning can someone look into this?,Cleaning,Medium
+Kindly fix this: garbage is lying outside the room in Block C please fix it.,Cleaning,Medium
+The problem is that flies are everywhere in room 312 please get this fixed soon.,Pest Control,Medium
+There is a problem because toilet is overflowing on the third floor please get this fixed soon.,Plumbing,High
+"In my room, wash basin is clogged in room 204 please send someone to check.",Plumbing,Medium
+Clothes are getting damaged in the machine in Block B this needs to be repaired.,Laundry,Medium
+Please check this: room light keeps flickering please send someone to check.,Electrical,Medium
+"In my room, dustbin is overflowing on the second floor I need help with this.",Cleaning,Medium
+I want to report that mosquito problem is severe in Block B kindly resolve this.,Pest Control,Medium
+Please check this: water supply is not available in Block A please get this fixed soon.,Plumbing,High
+I want to report that table leg is broken in my room I need help with this.,Furniture,Low
+Washroom needs cleaning in Block C can someone look into this?,Cleaning,Medium
+I noticed that door hinge is loose on the second floor please send someone to check.,Maintenance,Medium
+Room is very dirty on the second floor I need help with this.,Cleaning,Medium
+Please check this: fan regulator is not working on the third floor kindly resolve this.,Electrical,Medium
+"In my room, food is undercooked in room 204 I need help with this.",Mess/Food,Medium
+The problem is that laundry machine is not starting in the hostel room,Laundry,Medium
+My room has an issue: mess menu is not being followed in room 312 this needs to be repaired.,Mess/Food,Medium
+Kindly fix this: mattress is uncomfortable and damaged on the third floor please send someone to check.,Furniture,Medium
+"In my room, room key is not working in the hostel room please get this fixed soon.",Security,Medium
+Please check this: wall has water damage in Block C,Maintenance,Medium
+I want to report that AC is not cooling in room 312,Electrical,Medium
+"In my room, toilet water is not draining on the second floor I need help with this.",Plumbing,Medium
+I am facing an issue where network is extremely slow in room 204 can someone look into this?,Internet,Medium
+Dinner is served late can someone look into this?,Mess/Food,Medium
+Kindly fix this: door hinge is loose on the second floor please get this fixed soon.,Maintenance,Medium
+I want to report that dryer is not heating in Block A please send someone to check.,Laundry,Medium
+I want to report that cutlery is not clean in Block B can someone look into this?,Mess/Food,Medium
+I am facing an issue where pipe has burst on the third floor kindly resolve this.,Plumbing,High
+"In my room, network is extremely slow in the hostel room this needs to be repaired.",Internet,Medium
+I noticed that ceiling plaster is falling on the third floor,Maintenance,High
+Please check this: hostel entrance is not secure in Block C I need help with this.,Security,Medium
+The problem is that washing machine has a strange noise on the third floor,Laundry,Medium
+Please check this: AC is not cooling near my room this needs to be repaired.,Electrical,Medium
+There is a problem because toilet is overflowing in Block B please send someone to check.,Plumbing,High
+My room has an issue: dustbin has not been emptied in room 312 can someone look into this?,Cleaning,Medium
+My room has an issue: device cannot connect to wifi I need help with this.,Internet,Medium
+There is a problem because window glass is cracked in my room,Maintenance,Medium
+I am facing an issue where there is a termite problem in the hostel room please get this fixed soon.,Pest Control,Medium
+There is a problem because bathroom drain is clogged in my room please send someone to check.,Plumbing,Medium
+Please check this: toilet water is not draining on the second floor can someone look into this?,Plumbing,Medium
+The problem is that wall has cracks on the second floor please get this fixed soon.,Maintenance,Medium
+Please check this: curtain rod is broken in room 312 can someone look into this?,Maintenance,Low
+Please check this: bathroom tap is broken in Block C can someone look into this?,Plumbing,Medium
+I am facing an issue where room smells unpleasant this needs to be repaired.,Cleaning,Medium
+"In my room, washing machine is overloaded in room 312 can someone look into this?",Laundry,Medium
+Kindly fix this: laundry room equipment is damaged in my room I need help with this.,Laundry,Medium
+Please check this: laundry machine keeps stopping in my room I need help with this.,Laundry,Medium
+"In my room, door hinge is loose on the third floor please send someone to check.",Maintenance,Medium
+"In my room, there are rats in the hostel in Block C kindly resolve this.",Pest Control,High
+Kindly fix this: hostel entrance is not secure in room 204 can someone look into this?,Security,Medium
+"In my room, there are rats in the hostel near my room",Pest Control,High
+I noticed that exhaust fan is not working in Block B please get this fixed soon.,Electrical,Medium
+I am facing an issue where cockroaches are coming from the bathroom near my room this needs to be repaired.,Pest Control,Medium
+I am facing an issue where pipe is leaking on the second floor this needs to be repaired.,Plumbing,Medium
+I am facing an issue where food is not fresh near my room can someone look into this?,Mess/Food,High
+My room has an issue: water is leaking from the ceiling can someone look into this?,Plumbing,Medium
+Kindly fix this: geyser is not working in the hostel room kindly resolve this.,Electrical,High
+I want to report that unauthorized person entered the hostel in the hostel room this needs to be repaired.,Security,High
+My room has an issue: geyser is not working in Block B please send someone to check.,Electrical,High
+Please check this: flies are everywhere in room 204 kindly resolve this.,Pest Control,Medium
+Kindly fix this: bed has bed bugs please send someone to check.,Pest Control,High
+"In my room, door cannot be locked in room 312 this needs to be repaired.",Security,Medium
+There is a problem because cockroaches are coming from the bathroom on the third floor can someone look into this?,Pest Control,Medium
+Kindly fix this: shelf is broken in room 204 kindly resolve this.,Furniture,Medium
+Device cannot connect to wifi in Block A can someone look into this?,Internet,Medium
+I want to report that laundry room is closed on the second floor please get this fixed soon.,Laundry,Medium
+My room has an issue: food quality is poor in Block B,Mess/Food,Medium
+The problem is that internet speed is very low in Block C I need help with this.,Internet,Medium
+The problem is that power socket is damaged in room 312 this needs to be repaired.,Electrical,Medium
+Please check this: there are cockroaches in my room on the third floor can someone look into this?,Pest Control,Medium
+Please check this: drawer is stuck in room 312 please fix it.,Furniture,Medium
+"In my room, room has mosquitoes in the hostel room",Pest Control,Medium
+Kindly fix this: dustbin has not been emptied in room 312 please get this fixed soon.,Cleaning,Medium
+I want to report that there is no internet in my room on the second floor can someone look into this?,Internet,High
+The problem is that electricity keeps going off in Block A please send someone to check.,Electrical,Medium
+There is a problem because mosquito problem is severe on the third floor please send someone to check.,Pest Control,Medium
+Please check this: corridor is dirty in room 312 kindly resolve this.,Cleaning,Medium
+My room has an issue: study table is damaged in my room kindly resolve this.,Furniture,Medium
+There are rats in the hostel in room 204 can someone look into this?,Pest Control,High
+Mess food is cold in Block A please send someone to check.,Mess/Food,Medium
+I noticed that washing machine is broken in the hostel room please get this fixed soon.,Laundry,Medium
+I am facing an issue where breakfast is not available in room 204 please fix it.,Mess/Food,Medium
+There is a problem because toilet flush is not working in the hostel room please send someone to check.,Plumbing,Medium
+I want to report that water in the mess is not clean in the hostel room please fix it.,Mess/Food,Medium
+Please check this: mess menu is not being followed on the second floor,Mess/Food,Medium
+Please check this: unauthorized person entered the hostel in the hostel room kindly resolve this.,Security,High
+Kindly fix this: ants are everywhere near my room this needs to be repaired.,Pest Control,Medium
+Please check this: mess menu is not being followed on the third floor please get this fixed soon.,Mess/Food,Medium
+My room has an issue: lost room key needs replacement please fix it.,Security,Medium
+There is a problem because flies are everywhere on the third floor please fix it.,Pest Control,Medium
+Please check this: water supply is not available on the third floor kindly resolve this.,Plumbing,High
+My room has an issue: room has mosquitoes in Block B can someone look into this?,Pest Control,Medium
+I noticed that water supply is not available on the second floor,Plumbing,High
+I am facing an issue where food is undercooked on the third floor please fix it.,Mess/Food,Medium
+I want to report that ants are everywhere near my room please get this fixed soon.,Pest Control,Medium
+Please check this: laundry machine keeps stopping on the third floor please get this fixed soon.,Laundry,Medium
+Kindly fix this: geyser water is not coming on the second floor can someone look into this?,Plumbing,Medium
+I noticed that internet connection drops frequently near my room please get this fixed soon.,Internet,Medium
+Kindly fix this: room has seepage near my room please get this fixed soon.,Maintenance,Medium
+Hot water is not available in Block B I need help with this.,Plumbing,Medium
+Kindly fix this: chair is broken in Block A kindly resolve this.,Furniture,Medium
+Please check this: drawer is stuck in my room please get this fixed soon.,Furniture,Medium
+The problem is that washing machine has a strange noise in room 312 this needs to be repaired.,Laundry,Medium
+Visitor entered without permission near my room I need help with this.,Security,Medium
+I noticed that washing machine is not working on the third floor kindly resolve this.,Laundry,Medium
+My room has an issue: ceiling plaster is falling in Block C,Maintenance,High
+I want to report that toilet water is not draining on the second floor please send someone to check.,Plumbing,Medium
+There is a problem because power socket is damaged in Block B I need help with this.,Electrical,Medium
+I am facing an issue where water is collecting on the bathroom floor on the third floor kindly resolve this.,Plumbing,Medium
+The problem is that room cupboard is damaged near my room,Furniture,Medium
+I noticed that ants are entering the room in Block B please fix it.,Pest Control,Medium
+I am facing an issue where network signal is poor in room 312 this needs to be repaired.,Internet,Medium
+The problem is that door handle is broken in Block A,Maintenance,Medium
+There is a problem because water in the mess is not clean in my room please fix it.,Mess/Food,Medium
+Please check this: laundry service is unavailable in Block C I need help with this.,Laundry,Medium
+I want to report that socket has no power in the hostel room please send someone to check.,Electrical,Medium
+Kindly fix this: mess food is cold in Block C please get this fixed soon.,Mess/Food,Medium
+I want to report that exhaust fan is not working near my room please fix it.,Electrical,Medium
+My room has an issue: chair is broken near my room can someone look into this?,Furniture,Medium
+My room has an issue: curtain rod is broken in my room,Maintenance,Low
+"In my room, wifi signal is weak in Block A",Internet,Low
+Kindly fix this: bathroom has a bad smell near my room please fix it.,Cleaning,Medium
+Kindly fix this: laundry area is dirty on the third floor please fix it.,Laundry,Medium
+Please check this: lost room key needs replacement near my room,Security,Medium
+Kindly fix this: door is damaged this needs to be repaired.,Maintenance,Medium
+"In my room, laundry room is closed in room 204 kindly resolve this.",Laundry,Medium
+Kindly fix this: vegetarian food is not available near my room please send someone to check.,Mess/Food,Medium
+I am facing an issue where wifi keeps disconnecting near my room please fix it.,Internet,Medium
+I want to report that tiles are loose in room 204 please get this fixed soon.,Maintenance,Medium
+There is a problem because internet is very slow in my room I need help with this.,Internet,Low
+The problem is that chair is broken in Block C please fix it.,Furniture,Medium
+I am facing an issue where bathroom tap is leaking near my room can someone look into this?,Plumbing,Medium
+Please check this: washing machine is broken on the second floor I need help with this.,Laundry,Medium
+My room has an issue: door hinge is loose kindly resolve this.,Maintenance,Medium
+I want to report that there is not enough food in the mess kindly resolve this.,Mess/Food,Medium
+The problem is that door lock is not working near my room please send someone to check.,Security,High
+"In my room, cutlery is not clean in Block A can someone look into this?",Mess/Food,Medium
+I noticed that study table is broken in Block A kindly resolve this.,Furniture,Medium
+Kindly fix this: bathroom tap is leaking on the second floor this needs to be repaired.,Plumbing,Medium
+Sewage smell is coming from the drain on the third floor please get this fixed soon.,Plumbing,Medium
+I am facing an issue where laundry service is unavailable in Block B,Laundry,Medium
+My room has an issue: ants are everywhere in room 204 please get this fixed soon.,Pest Control,Medium
+Please check this: washing machine is not working this needs to be repaired.,Laundry,Medium
+Curtain is damaged in room 312 please send someone to check.,Maintenance,Low
+I am facing an issue where room has a bad smell on the third floor please get this fixed soon.,Cleaning,Medium
+I noticed that mattress is damaged in room 204 kindly resolve this.,Furniture,Medium
+The problem is that room smells unpleasant on the third floor this needs to be repaired.,Cleaning,Medium
+Please check this: hot water is not available near my room this needs to be repaired.,Plumbing,Medium
+I noticed that geyser water is not coming on the third floor can someone look into this?,Plumbing,Medium
+My room has an issue: mess food is cold near my room please send someone to check.,Mess/Food,Medium
+The problem is that window is broken on the second floor please send someone to check.,Maintenance,Medium
+Please check this: shower has very low pressure on the second floor please fix it.,Plumbing,Medium
+Bed has bed bugs in room 312 kindly resolve this.,Pest Control,High
+There is a problem because toilet water is not draining near my room kindly resolve this.,Plumbing,Medium
+There is a problem because curtain rod is broken in room 204,Maintenance,Low
+I noticed that internet is very slow in Block C I need help with this.,Internet,Low
+My room has an issue: hostel network is down on the third floor please send someone to check.,Internet,High
+Please check this: study table is broken on the third floor can someone look into this?,Furniture,Medium
+There is a problem because bathroom tap is leaking in Block B this needs to be repaired.,Plumbing,Medium
+I am facing an issue where toilet is overflowing in room 204 I need help with this.,Plumbing,High
+My room has an issue: internet speed is very low in Block A,Internet,Medium
+I want to report that drawer is broken in the hostel room,Furniture,Medium
+Network is extremely slow in Block C this needs to be repaired.,Internet,Medium
+I want to report that mattress is damaged on the third floor this needs to be repaired.,Furniture,Medium
+The problem is that bed has bed bugs in Block C can someone look into this?,Pest Control,High
+Washing machine is broken near my room please fix it.,Laundry,Medium
+Insects are present in the bathroom near my room please get this fixed soon.,Pest Control,Medium
+Mess area is dirty near my room please get this fixed soon.,Mess/Food,Medium
+I noticed that food is repetitive in Block B can someone look into this?,Mess/Food,Low
+I noticed that bathroom tap is broken on the third floor please fix it.,Plumbing,Medium
+I want to report that window does not close in Block A I need help with this.,Maintenance,Medium
+There is a problem because mattress is damaged in room 204 please fix it.,Furniture,Medium
+Kindly fix this: laundry service is unavailable in Block B kindly resolve this.,Laundry,Medium
+Kindly fix this: laundry machine is not starting kindly resolve this.,Laundry,Medium
+Kindly fix this: washing machine is broken on the third floor,Laundry,Medium
+There is a problem because ants are everywhere in Block B I need help with this.,Pest Control,Medium
+There is a problem because device cannot connect to wifi in Block C please get this fixed soon.,Internet,Medium
+The problem is that door is damaged in the hostel room I need help with this.,Maintenance,Medium
+My room has an issue: flies are everywhere in my room I need help with this.,Pest Control,Medium
+The problem is that laundry area is dirty in Block A please fix it.,Laundry,Medium
+I want to report that dinner is served late in my room this needs to be repaired.,Mess/Food,Medium
+Mosquito problem is severe on the third floor this needs to be repaired.,Pest Control,Medium
+Please check this: door is damaged on the third floor please fix it.,Maintenance,Medium
+Mess area is dirty in room 312 can someone look into this?,Mess/Food,Medium
+My room has an issue: washing machine is not working near my room I need help with this.,Laundry,Medium
+The problem is that room has not been swept kindly resolve this.,Cleaning,Low
+Mosquitoes are too many near my room please get this fixed soon.,Pest Control,Medium
+There is a problem because door lock is not working in room 312 I need help with this.,Security,High
+I want to report that internet connection drops frequently in my room kindly resolve this.,Internet,Medium
+Mess menu is not being followed in Block B kindly resolve this.,Mess/Food,Medium
+"In my room, mattress is damaged in Block C",Furniture,Medium
+"In my room, mattress is uncomfortable and damaged in Block B I need help with this.",Furniture,Medium
+The problem is that bathroom has water leakage on the second floor please fix it.,Plumbing,Medium
+I am facing an issue where window does not close in Block C can someone look into this?,Maintenance,Medium
+Kindly fix this: network is extremely slow on the second floor please fix it.,Internet,Medium
+"In my room, food quality is poor in room 312 can someone look into this?",Mess/Food,Medium
+Kindly fix this: room needs maintenance in Block C please send someone to check.,Maintenance,Medium
+I am facing an issue where window is broken in the hostel room can someone look into this?,Maintenance,Medium
+Please check this: bathroom is dirty in Block A please fix it.,Cleaning,Medium
+Please check this: ants are everywhere in Block B can someone look into this?,Pest Control,Medium
+Please check this: dinner is served late in Block C I need help with this.,Mess/Food,Medium
+Wifi keeps asking for login on the second floor I need help with this.,Internet,Medium
+My room has an issue: laundry area is dirty in room 204 please send someone to check.,Laundry,Medium
+My room has an issue: wall paint is peeling in room 204 can someone look into this?,Maintenance,Low
+My room has an issue: cleaning staff has not visited in room 204 I need help with this.,Cleaning,Medium
+I noticed that door is damaged in the hostel room this needs to be repaired.,Maintenance,Medium
+Kindly fix this: study table is damaged on the third floor I need help with this.,Furniture,Medium
+"In my room, mess plates are dirty in Block A please get this fixed soon.",Mess/Food,Medium
+There is a problem because dryer is not working in my room please get this fixed soon.,Laundry,Medium
+There is a problem because room has a bad smell in Block A please send someone to check.,Cleaning,Medium
+My room has an issue: internet connection is unstable near my room can someone look into this?,Internet,Medium
+I am facing an issue where washing machine is leaking near my room please fix it.,Laundry,Medium
+"In my room, ceiling is leaking in Block C can someone look into this?",Maintenance,High
+The problem is that door handle is broken in Block C please get this fixed soon.,Maintenance,Medium
+My room has an issue: wifi signal is weak in Block C,Internet,Low
+"In my room, room has not been swept near my room I need help with this.",Cleaning,Low
+The problem is that cleaning staff has not visited on the third floor,Cleaning,Medium
+I noticed that network is extremely slow in Block A,Internet,Medium
+I am facing an issue where cockroach infestation needs treatment near my room please fix it.,Pest Control,Medium
+Food tastes bad in the hostel room I need help with this.,Mess/Food,Medium
+There is a problem because room cupboard is damaged in Block A this needs to be repaired.,Furniture,Medium
+Bathroom is dirty in room 204 please fix it.,Cleaning,Medium
+The problem is that back gate is open on the third floor I need help with this.,Security,Medium
+Wall has cracks in Block A please get this fixed soon.,Maintenance,Medium
+I want to report that room has mosquitoes in Block B kindly resolve this.,Pest Control,Medium
+I want to report that cockroaches are coming from the bathroom on the second floor,Pest Control,Medium
+My room has an issue: room needs pest control in room 312 can someone look into this?,Pest Control,Medium
+"In my room, ceiling has cracks in my room can someone look into this?",Maintenance,Medium
+Food is overcooked I need help with this.,Mess/Food,Medium
+My room has an issue: food is too spicy in Block A,Mess/Food,Low
+There is a problem because door is getting stuck this needs to be repaired.,Maintenance,Medium
+I am facing an issue where dinner is served late near my room,Mess/Food,Medium
+Please check this: visitor entered without permission in Block A,Security,Medium
+My room has an issue: there is a termite problem this needs to be repaired.,Pest Control,Medium
+The problem is that back gate is open in Block B please send someone to check.,Security,Medium
+The problem is that dryer keeps shutting down near my room this needs to be repaired.,Laundry,Medium
+There is a problem because room light keeps flickering in Block A please fix it.,Electrical,Medium
+I am facing an issue where network is extremely slow on the third floor I need help with this.,Internet,Medium
+Please check this: curtain rod is broken near my room this needs to be repaired.,Maintenance,Low
+Toilet water is not draining in Block B can someone look into this?,Plumbing,Medium
+I noticed that door latch is broken in room 204 can someone look into this?,Security,Medium
+"In my room, bulb has fused in Block C",Electrical,Low
+There is a problem because CCTV camera is not working in Block B this needs to be repaired.,Security,Medium
+Kindly fix this: wash basin tap is broken near my room please get this fixed soon.,Plumbing,Medium
+"In my room, ceiling has cracks near my room please get this fixed soon.",Maintenance,Medium
+I am facing an issue where mess area is dirty in Block A,Mess/Food,Medium
+Food portion is too small near my room please get this fixed soon.,Mess/Food,Medium
+There is a problem because there is not enough food in the mess kindly resolve this.,Mess/Food,Medium
+"In my room, flies are everywhere in Block C can someone look into this?",Pest Control,Medium
+"In my room, laundry room is closed in Block A this needs to be repaired.",Laundry,Medium
+The problem is that charging point is not working on the second floor kindly resolve this.,Electrical,Medium
+I want to report that main gate is left open in the hostel room,Security,Medium
+My room has an issue: wifi is unavailable in my room I need help with this.,Internet,Medium
+I noticed that dryer is not working in Block C please fix it.,Laundry,Medium
+Kindly fix this: door latch is broken in Block B please send someone to check.,Security,Medium
+Please check this: room needs maintenance in the hostel room I need help with this.,Maintenance,Medium
+Kindly fix this: drawer is stuck in room 312 please get this fixed soon.,Furniture,Medium
+Someone entered the room without permission on the second floor kindly resolve this.,Security,High
+I want to report that mess area is dirty in Block C please get this fixed soon.,Mess/Food,Medium
+"In my room, internet connection is unstable in Block C I need help with this.",Internet,Medium
+My room has an issue: room cleaning has not been done in my room can someone look into this?,Cleaning,Medium
+Please check this: laundry area is dirty,Laundry,Medium
+I am facing an issue where garbage is lying outside the room in Block A can someone look into this?,Cleaning,Medium
+Washing machine is overloaded in Block A please fix it.,Laundry,Medium
+"In my room, mess plates are dirty in my room please send someone to check.",Mess/Food,Medium
+I want to report that internet is very slow in room 312 this needs to be repaired.,Internet,Low
+Please check this: switch is not working in room 204,Electrical,Medium
+I want to report that washing machine is leaking in Block A this needs to be repaired.,Laundry,Medium
+I noticed that wall has cracks near my room I need help with this.,Maintenance,Medium
+I am facing an issue where ants are everywhere near my room please send someone to check.,Pest Control,Medium
+The problem is that ceiling is leaking on the second floor can someone look into this?,Maintenance,High
+"In my room, washing machine is overloaded in my room kindly resolve this.",Laundry,Medium
+Kindly fix this: hostel gate is not locking near my room I need help with this.,Security,High
+I noticed that dryer keeps shutting down in room 312 please get this fixed soon.,Laundry,Medium
+There is a problem because wall is damp in Block C please get this fixed soon.,Maintenance,Medium
+My room has an issue: power socket is damaged in room 204 can someone look into this?,Electrical,Medium
+I want to report that mess food is cold in the hostel room I need help with this.,Mess/Food,Medium
+There is a problem because laundry room is closed near my room please fix it.,Laundry,Medium
+The problem is that hostel entrance is not secure in my room this needs to be repaired.,Security,Medium
+I want to report that study chair is damaged I need help with this.,Furniture,Medium
+There is a problem because door lock is not working in room 312 please get this fixed soon.,Security,High
+Kindly fix this: power is fluctuating in room 204 I need help with this.,Electrical,Medium
+The problem is that geyser is not working in room 204 this needs to be repaired.,Electrical,High
+I want to report that dryer keeps shutting down in my room kindly resolve this.,Laundry,Medium
+I want to report that food is not fresh in Block A please fix it.,Mess/Food,High
+I want to report that wifi does not reach my room properly in Block C,Internet,Medium
+Please check this: toilet water is not draining on the third floor please fix it.,Plumbing,Medium
+I noticed that AC is leaking water in the hostel room please get this fixed soon.,Electrical,Medium
+I want to report that food is not fresh in Block A can someone look into this?,Mess/Food,High
+There is a problem because internet speed is very low in room 204 please get this fixed soon.,Internet,Medium
+I noticed that study chair is damaged in room 312 can someone look into this?,Furniture,Medium
+My room has an issue: laundry machine is not starting in Block B,Laundry,Medium
+I want to report that room cleaning has not been done in my room I need help with this.,Cleaning,Medium
+"In my room, there is no internet in my room in Block A please fix it.",Internet,High
+Mattress is uncomfortable and damaged in room 204 please get this fixed soon.,Furniture,Medium
+My room has an issue: window is broken on the second floor kindly resolve this.,Maintenance,Medium
+I noticed that room cleaning has not been done near my room,Cleaning,Medium
+Kindly fix this: unauthorized person entered the hostel on the third floor please get this fixed soon.,Security,High
+Kindly fix this: drawer is broken in Block A please get this fixed soon.,Furniture,Medium
+Please check this: drain is blocked in room 204 this needs to be repaired.,Plumbing,Medium
+My room has an issue: power socket is damaged in room 204 I need help with this.,Electrical,Medium
+Kindly fix this: drawer is broken in room 204 please fix it.,Furniture,Medium
+The problem is that ceiling plaster is falling in Block B kindly resolve this.,Maintenance,High
+Water supply is not available in Block B,Plumbing,High
+Kindly fix this: cockroaches are coming from the bathroom near my room please send someone to check.,Pest Control,Medium
+I want to report that door lock is not working on the third floor can someone look into this?,Security,High
+There is a problem because water in the mess is not clean in my room please send someone to check.,Mess/Food,Medium
+I noticed that insects are coming into the room in Block B,Pest Control,Medium
+Please check this: night lamp is not working on the second floor kindly resolve this.,Electrical,Medium
+I noticed that food is overcooked in Block B please fix it.,Mess/Food,Medium
+Please check this: ceiling fan stopped working in my room this needs to be repaired.,Electrical,Medium
+Please check this: pipe is leaking in the hostel room I need help with this.,Plumbing,Medium
+There is a problem because AC is not cooling please send someone to check.,Electrical,Medium
+I noticed that mattress is uncomfortable and damaged on the third floor,Furniture,Medium
+"In my room, room has not been swept in Block C this needs to be repaired.",Cleaning,Low
+Kindly fix this: sewage smell is coming from the drain in room 204 I need help with this.,Plumbing,Medium
+There is a problem because laundry machine keeps stopping in room 204 can someone look into this?,Laundry,Medium
+There is a problem because wifi signal is weak in my room kindly resolve this.,Internet,Low
+I want to report that laundry machine keeps stopping in room 312 please get this fixed soon.,Laundry,Medium
+Kindly fix this: ceiling fan stopped working in room 204 please fix it.,Electrical,Medium
+Please check this: vegetarian food is not available in room 204,Mess/Food,Medium
+Dustbin is overflowing in room 312 this needs to be repaired.,Cleaning,Medium
+I noticed that washing machine has a strange noise in Block A please get this fixed soon.,Laundry,Medium
+I noticed that washing machine is not working on the third floor please send someone to check.,Laundry,Medium
+"In my room, laundry area is dirty in room 312 can someone look into this?",Laundry,Medium
+My room has an issue: wifi is unavailable in Block C I need help with this.,Internet,Medium
+The problem is that dryer keeps shutting down in room 204 please get this fixed soon.,Laundry,Medium
+Please check this: internet connection is unstable please get this fixed soon.,Internet,Medium
+Kindly fix this: dryer is not working on the third floor can someone look into this?,Laundry,Medium
+I noticed that bed frame is damaged near my room kindly resolve this.,Furniture,Medium
+Table leg is broken in room 312 can someone look into this?,Furniture,Low
+Kindly fix this: cockroaches are coming from the bathroom in the hostel room,Pest Control,Medium
+I want to report that mess plates are dirty kindly resolve this.,Mess/Food,Medium
+Food portion is too small in Block C please fix it.,Mess/Food,Medium
+I want to report that network signal is poor on the third floor please send someone to check.,Internet,Medium
+My room has an issue: internet speed is very low on the second floor please fix it.,Internet,Medium
+Please check this: toilet is overflowing in room 312,Plumbing,High
+There is a problem because room key is not working in my room,Security,Medium
+My room has an issue: clothes are getting damaged in the machine in the hostel room kindly resolve this.,Laundry,Medium
+Please check this: study table is damaged in Block A kindly resolve this.,Furniture,Medium
+Kindly fix this: washing machine is broken in my room please fix it.,Laundry,Medium
+I want to report that room cupboard is damaged in my room please fix it.,Furniture,Medium
+There is a problem because water in the mess is not clean in the hostel room this needs to be repaired.,Mess/Food,Medium
+There is a problem because dryer keeps shutting down on the second floor please send someone to check.,Laundry,Medium
+Please check this: toilet is overflowing near my room,Plumbing,High
+I am facing an issue where hostel security is inadequate in room 204 please get this fixed soon.,Security,High
+"In my room, common area is not clean in the hostel room kindly resolve this.",Cleaning,Medium
+Please check this: power socket is damaged in my room kindly resolve this.,Electrical,Medium
+I am facing an issue where there is a termite problem in room 312 I need help with this.,Pest Control,Medium
+I am facing an issue where flies are everywhere in the hostel room can someone look into this?,Pest Control,Medium
+"In my room, door cannot be locked in Block B this needs to be repaired.",Security,Medium
+I noticed that plug point is loose in my room please fix it.,Electrical,Medium
+I noticed that wifi works only sometimes in room 204 please send someone to check.,Internet,Medium
+My room has an issue: power is not available in my room on the second floor this needs to be repaired.,Electrical,High
+Kindly fix this: washing machine is not working on the second floor please fix it.,Laundry,Medium
+I noticed that corridor security camera is not working can someone look into this?,Security,High
+Please check this: bed frame is damaged near my room please get this fixed soon.,Furniture,Medium
+I want to report that mattress is uncomfortable and damaged in the hostel room I need help with this.,Furniture,Medium
+Dirty water is on the floor in Block A can someone look into this?,Cleaning,Medium
+Ceiling fan stopped working in Block A can someone look into this?,Electrical,Medium
+Please check this: bathroom floor is dirty near my room kindly resolve this.,Cleaning,Medium
+My room has an issue: mess food is often late,Mess/Food,Medium
+I noticed that door latch is broken in Block A please send someone to check.,Security,Medium
+Kindly fix this: dust is everywhere in the room can someone look into this?,Cleaning,Medium
+"In my room, dryer is not heating in Block B please fix it.",Laundry,Medium
+"In my room, wifi signal is weak in room 204 this needs to be repaired.",Internet,Low
+Kindly fix this: plug point is loose in my room please send someone to check.,Electrical,Medium
+The problem is that dustbin is overflowing in my room please fix it.,Cleaning,Medium
+Ceiling plaster is falling in room 312 please get this fixed soon.,Maintenance,High
+My room has an issue: common area is not clean in my room can someone look into this?,Cleaning,Medium
+I noticed that hostel network is down near my room this needs to be repaired.,Internet,High
+My room has an issue: bathroom drain is clogged in Block C,Plumbing,Medium
+I want to report that food is overcooked on the third floor I need help with this.,Mess/Food,Medium
+I want to report that cockroaches are coming from the bathroom on the third floor kindly resolve this.,Pest Control,Medium
+I am facing an issue where door is getting stuck in my room kindly resolve this.,Maintenance,Medium
+I noticed that food is undercooked in my room can someone look into this?,Mess/Food,Medium
+Please check this: drawer is broken in room 204 can someone look into this?,Furniture,Medium
+I want to report that room needs pest control near my room can someone look into this?,Pest Control,Medium
+Kindly fix this: visitor entered without permission in Block A please send someone to check.,Security,Medium
+I want to report that food quality is poor in my room this needs to be repaired.,Mess/Food,Medium
+"In my room, wifi is unavailable on the second floor kindly resolve this.",Internet,Medium
+My room has an issue: room key is not working near my room please get this fixed soon.,Security,Medium
+I want to report that mess area is dirty on the third floor please send someone to check.,Mess/Food,Medium
+Kindly fix this: room door does not lock properly on the third floor kindly resolve this.,Security,Medium
+I want to report that ceiling plaster is falling this needs to be repaired.,Maintenance,High
+Kindly fix this: pipe is leaking in Block C I need help with this.,Plumbing,Medium
+Please check this: washing machine is overloaded in my room please fix it.,Laundry,Medium
+I am facing an issue where window is broken in my room please get this fixed soon.,Maintenance,Medium
+Kindly fix this: bed is broken on the third floor can someone look into this?,Furniture,Medium
+There is a problem because window is broken in Block C this needs to be repaired.,Maintenance,Medium
+There is a problem because back gate is open in my room,Security,Medium
+My room has an issue: electrical switch is sparking on the second floor,Electrical,Medium
+I want to report that study table is damaged on the third floor please send someone to check.,Furniture,Medium
+"In my room, door latch is broken in Block A I need help with this.",Security,Medium
+I noticed that food is too spicy on the second floor please get this fixed soon.,Mess/Food,Low
+Please check this: dryer is not working in room 312 please send someone to check.,Laundry,Medium
+"In my room, wifi does not reach my room properly on the second floor please get this fixed soon.",Internet,Medium
+Power is not available in my room please send someone to check.,Electrical,High
+Please check this: washroom needs cleaning can someone look into this?,Cleaning,Medium
+My room has an issue: chair is unstable near my room please send someone to check.,Furniture,Low
+My room has an issue: pipe has burst,Plumbing,High
+I am facing an issue where wifi is unavailable in room 312 can someone look into this?,Internet,Medium
+I want to report that mosquito problem is severe in room 312 I need help with this.,Pest Control,Medium
+Kindly fix this: toilet flush is not working in room 204 please fix it.,Plumbing,Medium
+Please check this: cleaning staff has not visited in room 312 can someone look into this?,Cleaning,Medium
+The problem is that mess menu is not being followed in Block A this needs to be repaired.,Mess/Food,Medium
+"In my room, bed frame is damaged in room 204 can someone look into this?",Furniture,Medium
+There is a problem because bed frame is loose in room 312 please send someone to check.,Furniture,Medium
+I noticed that room smells unpleasant in room 312,Cleaning,Medium
+My room has an issue: laundry area is dirty in Block C can someone look into this?,Laundry,Medium
+I want to report that bathroom has a bad smell in my room please send someone to check.,Cleaning,Medium
+I noticed that window does not close in room 312 please send someone to check.,Maintenance,Medium
+I noticed that geyser water is not coming on the second floor please send someone to check.,Plumbing,Medium
+My room has an issue: window is broken can someone look into this?,Maintenance,Medium
+There is a problem because food tastes bad in Block B,Mess/Food,Medium
+I noticed that AC is leaking water in Block B kindly resolve this.,Electrical,Medium
+Please check this: bathroom floor is dirty in the hostel room can someone look into this?,Cleaning,Medium
+There is a problem because tube light is flickering in room 312 this needs to be repaired.,Electrical,Low
+I noticed that chair is unstable I need help with this.,Furniture,Low
+I am facing an issue where room cleaning has not been done near my room can someone look into this?,Cleaning,Medium
+There is a problem because wifi is unavailable on the second floor please send someone to check.,Internet,Medium
+"In my room, study table is broken in room 204 please get this fixed soon.",Furniture,Medium
+There is a problem because sewage smell is coming from the drain in room 204 please get this fixed soon.,Plumbing,Medium
+The problem is that window does not close in Block B I need help with this.,Maintenance,Medium
+There is a problem because AC is not turning on near my room please send someone to check.,Electrical,Medium
+I noticed that washing machine is overloaded in room 312 I need help with this.,Laundry,Medium
+Ceiling fan stopped working in room 204 I need help with this.,Electrical,Medium
+I am facing an issue where toilet flush is not working in Block C can someone look into this?,Plumbing,Medium
+"In my room, network is extremely slow near my room this needs to be repaired.",Internet,Medium
+Food is too oily near my room please send someone to check.,Mess/Food,Low
+Chair leg is loose in the hostel room please get this fixed soon.,Furniture,Medium
+There is a problem because toilet is overflowing in my room kindly resolve this.,Plumbing,High
