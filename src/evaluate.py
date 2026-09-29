@@ -52,14 +52,14 @@ category_predictions = category_model.predict(X_test_tfidf)
 priority_predictions = priority_model.predict(X_test_tfidf)
 
 
-# ==============================
 # CATEGORY MODEL
-# ==============================
+
 
 print("\n========== CATEGORY MODEL ==========")
 
 print(
     f"Accuracy: "
+    
     f"{accuracy_score(y_category_test, category_predictions) * 100:.2f}%"
 )
 
@@ -80,9 +80,7 @@ print(
 )
 
 
-# ==============================
 # PRIORITY MODEL
-# ==============================
 
 print("\n========== PRIORITY MODEL ==========")
 
